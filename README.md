@@ -36,8 +36,13 @@ ML-Experiments-1/
 
 #### **1️⃣ Install Dependencies**
 
-```sh
-pip install -r requirements.txt
+```pip install scrapy
+pip install pandas
+pip install matplotlib
+pip install wordcloud
+pip install scikit-learn
+pip install tk
+pip install logging
 ```
 
 #### **2️⃣ Run the ML Analysis**
