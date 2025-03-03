@@ -36,7 +36,9 @@ ML-Experiments-1/
 
 #### **1️⃣ Install Dependencies**
 
-```pip install scrapy
+```
+pip install scrapy
+pip install scrapy
 pip install pandas
 pip install matplotlib
 pip install wordcloud
